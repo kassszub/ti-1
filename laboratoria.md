@@ -29,6 +29,9 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Brzozowski, Patryk](http://pbrzozowski.github.io/). [Notacje](https://github.com/pbrzozowski/lab06).
 1. [Adrian Chylicki](http://aadrianch.github.io/). [Notacje](https://github.com/aadrianch/TI).
 1. [Lipiński Michał](http://mlipinski2.github.io/). [Repozytorium](https://github.com/mlipinski2/TI). L, P, MA
+
+----
+
 1. Mrotek, Remigiusz
 1. Piątek, Mariusz
 1. Skowroński, Mateusz
@@ -48,5 +51,6 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Joanna Kowalska, Natalia Ruchlewicz](https://bitbucket.org/projekt_inf/meteor-chat). [Meteor Chat](http://meteor-chat.meteor.com).
 1. [Przemyslaw Tomasik](https://github.com/ptomasik1/Glosuj). [Sonda internetowa](http://ptomasik.meteor.com/).
 1. [Marek Eggert, Rafal Kupniewski](https://bitbucket.org/Marek4f/bestchat). [Chat w Meteorze](http://bestchat.meteor.com).
+1. [Michał Lipiński, Mariusz Piątek, Paweł Ponieważ](https://github.com/mrpiatek/todos). [TodosGitus](http://todosgitus.meteor.com).
 1. [Sylwester Portalski](https://bitbucket.org/sportalski/projekt/). [Wiadomosci](http://wiadomosciczat.meteor.com/).
 1. [Damian Samsoniuk](https://github.com/dsamsoniuk/egzamin). [Chat](http://chat_1.meteor.com).
