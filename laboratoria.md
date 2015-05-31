@@ -54,3 +54,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Michał Lipiński, Mariusz Piątek, Paweł Ponieważ](https://github.com/mrpiatek/todos). [TodosGitus](http://todosgitus.meteor.com).
 1. [Sylwester Portalski](https://bitbucket.org/sportalski/projekt/). [Wiadomosci](http://wiadomosciczat.meteor.com/).
 1. [Damian Samsoniuk](https://github.com/dsamsoniuk/egzamin). [Chat](http://chat_1.meteor.com).
+1. [Brzozowski Patryk, Adrian Chylicki](https://github.com/achylicki/meteor).[Wybory2000](http://wybory2000.meteor.com/).
